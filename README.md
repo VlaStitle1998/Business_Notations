@@ -33,10 +33,10 @@
 
 *Возможность заключения договоров и подписания документов с помощью электронной подписи.*
 
-### 1.1. [MoSCoW chart](https://github.com/VlaStitle1998/Business_Notations/blob/main/MoSCoW.png)
+### 1.1. [MoSCoW](https://github.com/VlaStitle1998/Business_Notations/blob/main/MoSCoW.png)
 ### Приоритизация решений проблем модели AS IS + TO BE
 
-### 1.2. [ER-диаграмма](https://github.com/VlaStitle1998/Business_Notations/blob/main/ER.png)
+### 1.2. [ER](https://github.com/VlaStitle1998/Business_Notations/blob/main/ER.png)
 ### Диаграмма связей между сущностями. Нотация Мартина ("воронья лапка")
 
 ## 2. Описание Бизнес-Процесса для BPMN 2.0 диаграммы:
@@ -75,3 +75,10 @@
 
 ### 4.1. [EPC](https://github.com/VlaStitle1998/Business_Notations/blob/main/EPC.png)
 ### Моделирование процесса выпуска лекарственного препарата
+
+## 5. Описание Бизнес-Процесса для UML-диаграммы активностей:
+### Бизнес-Процесс: Ввод данных в калькулятор (Frontend + Backend):
+*Показывает последовательность действий, варианты решений и их результаты.*
+
+### 5.1. [UML](https://github.com/VlaStitle1998/Business_Notations/blob/main/UML.png)
+### Моделирование процесса ввода данных в окошко калькулятора
